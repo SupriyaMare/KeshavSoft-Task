@@ -2,8 +2,7 @@
 ## Bootstrap 5 UI Exploration & Page Design
 
 **Student/Intern:** Supriya mare 
-**Project Name:** Bootstrap 5 UI Portfolio - Lumio Studio  
-**Submission Date:** July 20, 2026  
+**Project Name:** Bootstrap 5 UI Portfolio - Lumio Studio   
 **Total Time Taken:** 4-5 hours
 
 ---
@@ -231,6 +230,6 @@ This project successfully demonstrates proficiency in Bootstrap 5 framework, res
 
 ---
 
-**Report Prepared By:** SUpriya mare 
+**Report Prepared By:** Supriya mare 
 **Date:** July 20, 2026  
 **Project Status:** ✅ COMPLETE
