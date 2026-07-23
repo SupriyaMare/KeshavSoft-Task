@@ -1,7 +1,7 @@
 # Project Reflection Report
 ## Bootstrap 5 UI Exploration & Page Design
 
-**Student/Intern:** Supriya mare 
+**Student:** Supriya mare 
 **Project Name:** Bootstrap 5 UI Portfolio - Lumio Studio   
 **Total Time Taken:** 4-5 hours
 
